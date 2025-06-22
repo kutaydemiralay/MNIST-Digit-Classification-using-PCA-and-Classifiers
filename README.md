@@ -102,11 +102,8 @@ Using PCA-reduced MNIST digit data, I trained three classifiers and evaluated th
 
 ## Full Report
 
-The full PDF report is available in the repository: [report.pdf](./report.pdf)
+The full PDF report is available in the repository: [report3.pdf](./report3.pdf)
 
-## Acknowledgements
-
-Thanks to Po, Shavey, and Emoji for helpful discussions. Special thanks to Professor Eli for lectures, office hours, and code examples.
 
 ## References
 
